@@ -1,0 +1,55 @@
+.todoinput {
+    margin: 30px;
+    padding: 30px;
+    border: 5px dotted orange;
+    border-radius: 50px;
+    width: 500px;
+}
+
+.todoinput h3 {
+    margin-bottom: 0px;
+ 
+}
+.todoinput input,select {
+    margin-top: 0px;
+    padding: 10px;
+    background-color: #ffd4b1;
+    
+}
+
+
+
+.detail {
+    min-width: 300px;
+    height: 100px;
+    padding: 20px;
+    margin-bottom: 15px;
+    background-color: #ffd4b1;
+
+}
+
+
+.todolist {
+    margin: 30px;
+}
+
+.todolist td {
+    padding: 20px;
+    border-bottom: 3px solid orange;
+}
+
+.todolist button {
+    padding: 5px;
+    margin: 0 10px;
+
+}
+
+th {
+    padding: 10px;
+    background-color: orange;
+    min-width: 100px;
+}
+
+.todolist select {
+    margin-left: 10px;
+}
